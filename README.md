@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @menoz14
+- 👀 I’m interested in data analysis and machine learning
